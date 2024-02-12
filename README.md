@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning to effectively estimate Causal Relationships and working with The Nicholas School of the Environment on exciting Environmental Data Projects<br>🎲 Podcast Recommendations: Freakonomics, Not so standard deviations, Lore, Creepypasta</p>
+<p align="left">📚 I'm currently learning how to effectively estimate Causal Relationships and working with The Nicholas School of the Environment on exciting Environmental Data Projects<br>🎲 Podcast Recommendations: Freakonomics, Not so standard deviations, Lore, Creepypasta</p>
 
 ###
 
