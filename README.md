@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Graduate Student at the Fuqua School of Business, Duke. I love working in the integration of Analytics, Business, Life Sciences, AI, and Data Science.</p>
+<p align="left">I'm a Graduate Student at the Fuqua School of Business, Duke. I love working in the integration of Analytics, Business, Strategy, Life Sciences, AI, and Data Science.</p>
 
 ###
 
